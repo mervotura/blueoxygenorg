@@ -38,7 +38,7 @@ angular.module('hoqiiApp')
                 'link': '#downloads'
     		},
             {
-                'image': 'images/bg2.jpg',
+                'image': 'images/bg4.jpg',
                 'text': 'title',
                 'title': 'Komunitas',
                 'description': 'Kami sedang mengembangkan beberapa proyek dan semua berdasarkan Cimande, platform dasar untuk mengembangkan aplikasi kita di masa depan.',
@@ -46,7 +46,7 @@ angular.module('hoqiiApp')
                 'link': '#community'
             },
             {
-                'image': 'images/bg4.jpg',
+                'image': 'images/bg5.jpg',
                 'text': 'title',
                 'title': 'Inkubator',
                 'description': ' ',
