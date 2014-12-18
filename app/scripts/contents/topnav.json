@@ -15,15 +15,18 @@
 	},
 	{
 		"name": "Unduh",
-		"link": "#/downloads"
+		"link": "javascript:",
+		"target": "#downloads"
 	},
 	{
 		"name": "Komunitas",
-		"link": "#/community"
+		"link": "javascript:",
+		"target": "#community"
 	},
 	{
 		"name": "Inkubator",
-		"link": "#/download"
+		"link": "javascript:",
+		"target": "#incubator"
 	},
 	{
 		"name": "Hubungi Kami",
