@@ -1,0 +1,33 @@
+[
+	{
+		"name": "Beranda",
+		"link": "#/"
+	},
+	{
+		"name": "Platform",
+		"link": "javascript:",
+		"target": "#platform"
+	},
+	{
+		"name": "Galeri App",
+		"link": "javascript:",
+		"target": "#appgallery"
+	},
+	{
+		"name": "Unduh",
+		"link": "#/downloads"
+	},
+	{
+		"name": "Komunitas",
+		"link": "#/community"
+	},
+	{
+		"name": "Inkubator",
+		"link": "#/download"
+	},
+	{
+		"name": "Hubungi Kami",
+		"link": "javascript:",
+		"target": "#contact-us"
+	}
+]
