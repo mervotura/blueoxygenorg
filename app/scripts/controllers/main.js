@@ -18,7 +18,7 @@ angular.module('hoqiiApp')
     			'text': 'title',
     			'title': 'Platform',
     			'description': 'Cimande Workspace adalah dasar/pondasi dari sebuah aplikasi.',
-    			'faClass': 'icon-dice',
+    			'faClass': 'icon-stack',
                 'link': '#platform'
     		},
     		{
@@ -26,7 +26,7 @@ angular.module('hoqiiApp')
     			'text': 'title',
     			'title': 'Galeri App',
     			'description': 'Kami sedang mengembangkan beberapa proyek dan semua berdasarkan Cimande, platform dasar untuk mengembangkan aplikasi kita di masa depan.',
-    			'faClass': 'icon-cogs',
+    			'faClass': 'icon-images',
                 'link': '#appgallery'
     		},
     		{
@@ -34,7 +34,7 @@ angular.module('hoqiiApp')
     			'text': 'title',
     			'title': 'Unduh',
     			'description': 'Anda bisa mendapatkan Cimande kami, dari url mirror kami.',
-    			'faClass': 'icon-copy2',
+    			'faClass': 'icon-download',
                 'link': '#downloads'
     		},
             {
@@ -42,15 +42,15 @@ angular.module('hoqiiApp')
                 'text': 'title',
                 'title': 'Komunitas',
                 'description': 'Kami sedang mengembangkan beberapa proyek dan semua berdasarkan Cimande, platform dasar untuk mengembangkan aplikasi kita di masa depan.',
-                'faClass': 'icon-cogs',
+                'faClass': 'icon-users2',
                 'link': '#community'
             },
             {
                 'image': 'images/bg5.jpg',
                 'text': 'title',
                 'title': 'Inkubator',
-                'description': ' ',
-                'faClass': 'icon-cogs',
+                'description': 'Berbagai aplikasi yang dibuat oleh siswa magang dan  mahasiswa kerja praktek di Meruvian.',
+                'faClass': 'icon-home3',
                 'link': '#forum'
             }
     	]
